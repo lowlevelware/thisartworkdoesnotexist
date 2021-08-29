@@ -1,9 +1,17 @@
 # This Artwork Does Not Exist
 Artwork generated using [guided diffusion](https://github.com/openai/guided-diffusion) by turning text into images with [CLIP](https://openai.com/blog/clip/).
 
-Model Name: 512x512 diffusion (unconditional ImageNet)
-Modality: Images
-Intended Use: Generation of images with or without classifier guidance
+## Model Name
+
+512x512 diffusion (unconditional ImageNet)
+
+### Modality
+
+Images
+
+### Intended Use
+
+Generation of images with or without classifier guidance
 
 ## Detailed description
 
