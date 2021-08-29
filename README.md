@@ -22,7 +22,7 @@ A 512x512 unconditional ImageNet diffusion model, fine-tuned for 8100 steps from
 A 512x512 unconditional ImageNet diffusion model, fine-tuned from the OpenAI trained 512x512 class-conditional ImageNet diffusion model.
 
 ## License
-Images, **CC0**, [Lowelevelware](https://github.com/lowlevelware)
+Images, **CC0**, [Lowelevelware](https://github.com/lowlevelware)  
 512x512 diffusion model (unconditional ImageNet), **MIT**, [Katherine Crowson](crowsonkb@gmail.com)
 
 ## Training Data
