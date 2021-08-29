@@ -29,8 +29,8 @@ Images, **CC0**, [Lowelevelware](https://github.com/lowlevelware)
 
 ImageNet (ILSVRC 2012 subset)
 
-Metrics / Evaluations: None
-Limitations and Biases: -
+Metrics / Evaluations: None  
+Limitations and Biases: -  
 Those of the parent model: -
 
 These models sometimes produce highly unrealistic outputs, particularly when generating images containing human faces. This may stem from ImageNet's emphasis on non-human objects.
